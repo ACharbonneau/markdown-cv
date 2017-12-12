@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Amanda Charbonneau
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amanda Charbonneau
+Genomics, Bioinformatics, Population Genetics and Teaching
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
